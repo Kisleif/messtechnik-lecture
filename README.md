@@ -3,7 +3,7 @@
 Interaktives Vorlesungsskript für die Veranstaltung Messtechnik an der Fakultät für Maschinenbau der Helmut-Schmidt-Universität, Universität der Bundeswehr von Dr. rer. nat. Katharina-Sophie Isleif, isleifk@hsu-hh.de
 
 ## Jupyter Notebooks
-Dieses github-Repository beinhaltet eine Anzahl von [Jupyter](https://jupyter.org/) Notebooks, welche Notizen und Beispiele für das Bachelormodul Messtechnik an der Helmut-Schmidt-Universität Hamburg, Universität der Bundeswehr, gelesen von Katharina-Sophie Isleif, bereit stellt. Das Notebook beinhaltet Beispiele in der Programmiersprache [IPython 3](http://ipython.org/), welche am besten interaktiv ausgeführt werden sollten. Eine kurze Anleitung zur Ausführung von Blocks und Code in Jupyter Notebooks kann im [Jupyter Notebook Tutorial](00_jupyter_notebook_tutorial.ipynb) gefunden werden. 
+Dieses github-Repository beinhaltet eine Anzahl von [Jupyter](https://jupyter.org/) Notebooks, welche Notizen und Beispiele für das Bachelormodul Messtechnik an der Helmut-Schmidt-Universität Hamburg, Universität der Bundeswehr, gelesen von Katharina-Sophie Isleif, bereitstellt. Das Notebook beinhaltet Beispiele in der Programmiersprache [IPython 3](http://ipython.org/), welche auch interaktiv ausgeführt werden können. Eine kurze Anleitung zur Ausführung von Blocks und Code in Jupyter Notebooks kann im [Jupyter Notebook Tutorial](00_jupyter_notebook_tutorial.ipynb) gefunden werden. 
 
 ## Inhalt
 Der Inhalt dieses Vorlesungsskripts wird im laufenden Trimester entwickelt und erweitert. Gerne können Anmerkungen zu Fehlern oder Anregungen gemeldet werden, beispielsweise als [issues](https://github.com/Kisleif/messtechnik-lecture/issues) auf GitHub oder über direkte Kontaktaufnahme über isleifk@hsu-hh.de.
