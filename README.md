@@ -7,6 +7,7 @@ Dieses github-Repository beinhaltet eine Anzahl von [Jupyter](https://jupyter.or
 
 - [**Interaktive Kursmaterialien starten**](https://mybinder.org/v2/gh/Kisleif/messtechnik-lecture/HEAD?filepath=00_Inhalt.ipynb)
 - [Kursmaterialien nur lesen](https://nbviewer.jupyter.org/github/Kisleif/messtechnik-lecture/blob/main/00_Inhalt.ipynb)
+- [Installationshinweise (von Nils Fleischer)](https://nbviewer.jupyter.org/github/nilsleiffischer/python-course/blob/master/setup.ipynb)
 
 ## Inhalt
 Der Inhalt dieses Vorlesungsskripts wird im laufenden Trimester entwickelt und erweitert. Gerne können Anmerkungen zu Fehlern oder Anregungen gemeldet werden, beispielsweise als [issues](https://github.com/Kisleif/messtechnik-lecture/issues) auf GitHub oder über direkte Kontaktaufnahme über isleifk@hsu-hh.de.
