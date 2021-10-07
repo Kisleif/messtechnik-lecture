@@ -12,6 +12,25 @@ Dieses github-Repository beinhaltet eine Anzahl von [Jupyter](https://jupyter.or
 ## Inhalt
 Der Inhalt dieses Vorlesungsskripts wird im laufenden Trimester entwickelt und erweitert. Gerne können Anmerkungen zu Fehlern oder Anregungen gemeldet werden, beispielsweise als [issues](https://github.com/Kisleif/messtechnik-lecture/issues) auf GitHub oder über direkte Kontaktaufnahme über isleifk@hsu-hh.de.
 
+### Teil 1: Grundlagen
+***
+* [Einleitung: Einheiten, Kalibrieren und Eichen](Einleitung.ipynb)
+
+### Teil 2: Messsysteme, Messsignale, Messabweichungen
+***
+* [Statische Messsysteme: Kennlinien](StatischeMesssysteme.ipynb)
+* [Messabweichungen](Messabweichungen.ipynb)
+* [Messsignale](Messsignale.ipynb)
+* Messsignale analysieren
+* Dynamische Messsysteme
+* Messen elektrischer Größen 
+
+### Teil 3: Sensoren
+***
+* Auswahl an Sensoren
+
+
+
 <div>
 <img src="pictures/mt.png" width="1000"/>
 </div>
