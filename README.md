@@ -18,10 +18,11 @@ Der Inhalt dieses Vorlesungsskripts wird im laufenden Trimester entwickelt und e
 
 ### Teil 2: Messsysteme, Messsignale, Messabweichungen
 ***
-* [Statische Messsysteme: Kennlinien](StatischeMesssysteme.ipynb)
+* [Einleitung: Einheiten, Kalibrieren und Eichen](Einleitung.ipynb)
+* [Stationäre Messsysteme](Messsysteme.ipynb)
 * [Messabweichungen](Messabweichungen.ipynb)
+* [Kurvenanpassung](Kurvenanpassung.ipynb)
 * [Messsignale](Messsignale.ipynb)
-* Messsignale analysieren
 * Dynamische Messsysteme
 * Messen elektrischer Größen 
 
